@@ -1,0 +1,24 @@
+{
+  "name": "forexify",
+  "version": "1.0.0",
+  "description": "a minimal package for forex rates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilkuria/forexify.git"
+  },
+  "keywords": [
+    "forex",
+    "currency",
+    "minimal"
+  ],
+  "author": "nikhilkuria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikhilkuria/forexify/issues"
+  },
+  "homepage": "https://github.com/nikhilkuria/forexify#readme"
+}
