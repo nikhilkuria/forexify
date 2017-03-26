@@ -1,2 +1,2 @@
 # forexify
-Minimal tools to get the Forex rates.
+Minimal package for Forex rates.
