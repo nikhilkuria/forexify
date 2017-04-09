@@ -1,6 +1,6 @@
 {
   "name": "forexify",
-  "version": "1.0.2",
+  "version": "1.0.2.1",
   "description": "a minimal package for forex rates",
   "main": "index.js",
   "scripts": {
