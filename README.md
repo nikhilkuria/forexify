@@ -25,5 +25,12 @@ forexify.supportedCurrencies(function(err,data){
   console.log(data);
 })
 ```
+* `historicalRates:function(baseCurrency="EUR", dayString, callback)`
+```javascript
+//The datestring has to be in YYYY-MM-DD format
+forexify.historicalRates("INR", "2013-10-30", function(error,data){
+  console.log(data);
+})
+```
 
 
